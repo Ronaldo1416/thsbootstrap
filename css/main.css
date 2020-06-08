@@ -1,0 +1,11 @@
+*{
+    list-style: none;
+}
+header{
+    background-color: #ffa500;
+    height: 50vh;
+}
+.nav__link{
+    color:white;
+    font-size: 20px;
+}
